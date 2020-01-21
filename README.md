@@ -1,3 +1,3 @@
 # Image-analysis
- Image analysis video tutorial
+ Image analysis video tutorial.
  
